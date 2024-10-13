@@ -1,7 +1,6 @@
 package application;
 import java.io.IOException;
 
-import javax.swing.JTextField;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
